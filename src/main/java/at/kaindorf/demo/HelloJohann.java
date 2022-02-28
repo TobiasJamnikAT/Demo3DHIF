@@ -5,6 +5,6 @@ public class HelloJohann {
         System.out.println("Hello world");
 
         System.out.println("Sie nenne dich bibi, sie nenne dich bubu");
-        System.out.println("und sie wollen die bifi, direkt in die mum");
+        System.out.println("und sie wollen die bifi, direkt in die mumu");
     }
 }
